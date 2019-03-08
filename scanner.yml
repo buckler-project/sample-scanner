@@ -1,5 +1,5 @@
 url:
-  https://github.com/buckler-project/sample-scanner/releases/download/0.1/libmd5.so
+  https://github.com/buckler-project/sample-scanner/releases/download/0.2/libmd5.so
   
 path:
   bin/libsample.so
